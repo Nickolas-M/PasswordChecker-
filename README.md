@@ -9,4 +9,5 @@ This program checks the strength of a password. There are 6 different criterias 
   5) Checks if the password contains any special characters.
   6) Checks if the password is within the supplied wordlist.
 
+Feel free to change the wordlist in the program to a more relevant one especially as the passwords contained in the provided wordlist a rudimentary. I hope everyone enjoys this program and can find it useful.
 
