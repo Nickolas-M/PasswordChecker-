@@ -45,7 +45,7 @@ def main():
 def wordlist(check):
 
     # Checks if the password is on the wordlist
-    file = open("commonpasswords.txt","r")
+    file = open("commonpasswords.txt","r") # Ensure the text file is in the same directory as the python script
     data = file.read()
     lines = data.splitlines()
 
